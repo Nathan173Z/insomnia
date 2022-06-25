@@ -1,0 +1,31 @@
+_id: req_18f832a8741a4dd8aa1bd03395098fe8
+type: Request
+parentId: fld_9f72e0700ce34c30a9d85bb9e09b172a
+modified: 1656116863586
+created: 1656111424790
+url: "{{ _.baseURL }}/categories"
+name: CREATE
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "Para teste de delete",
+    	"id": "5",
+    	"description": "teste de delete"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_3d24c5fb69b5446b8bc3d0a37452bc6c
+authentication: {}
+metaSortKey: -1656111458431
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

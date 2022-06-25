@@ -1,0 +1,31 @@
+_id: req_2aecfb59e8184a0cb092eca6fa0774f2
+type: Request
+parentId: fld_9f72e0700ce34c30a9d85bb9e09b172a
+modified: 1656117112402
+created: 1656111456134
+url: "{{ _.baseURL }}/category"
+name: UPDATE
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {  
+    	"id" : "4",
+    	"name": "Teste realizado",
+    	"description" :"Teste feito"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_9e25aa68c7f744f6a29b4ae61314b455
+authentication: {}
+metaSortKey: -1656111458406
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

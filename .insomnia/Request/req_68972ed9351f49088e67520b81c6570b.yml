@@ -1,0 +1,21 @@
+_id: req_68972ed9351f49088e67520b81c6570b
+type: Request
+parentId: fld_9f72e0700ce34c30a9d85bb9e09b172a
+modified: 1656116548567
+created: 1656111458381
+url: "{{ _.baseURL }}/categorias/2"
+name: SHOW
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1656111610231
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
